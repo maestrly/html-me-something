@@ -1,0 +1,137 @@
+header {
+  background-image: url("images/marspromo.jpg");
+  text-align: center;
+  margin:auto;
+  /*background-color: #FFE066;*/
+  padding-top: 2.0em;
+  padding-bottom: 2.0em;
+  font-size: 1.0em;
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-attachment: fixed;
+  color: white;
+  font-family: 'Passion One', cursive;
+  height: 700px;
+  background-size: cover;
+
+}
+
+.learn {
+  border: 5px solid white;
+  margin: 200px 600px 50px 600px;
+  background-color: white;
+  padding: 0px;
+  font-size: 25px;
+  border-radius: 5%;
+}
+
+.learn p {
+  font-size: 25px;
+  padding: 0px 0px 0px 0px;
+  color: black;
+}
+
+h1 {
+  font-size: 120px;
+}
+
+header p {
+  font-size: 50px;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.section-bar {
+  background-color: black;
+  padding: 150px;
+  color: white;
+  text-align: center;
+  font-family: 'Passion One', cursive;
+  font-size: 50px;
+}
+
+
+.scroll2 article {
+  background-color: #FEB950;
+  padding-bottom: 50px;
+  color: black;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 20px;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 30px;
+}
+
+
+.roadmap {
+  background-image: url("images/MarsBackground.png");
+  font-family: 'Passion One', sans-serif;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.roadmap h2 {
+  text-align: center;
+  color: white;
+  font-size: 50px;
+}
+
+.roadmap ul {
+  margin-left: 500px;
+  font-size: 30px;
+  color: white;
+}
+
+
+
+.elon {
+  margin: auto;
+  display: block;
+
+
+}
+
+.visionary {
+  background-color: white;
+  color: black;
+  text-align: center;
+  font-family: 'Passion One', cursive;
+  font-size: 50px;
+}
+
+.visionary p {
+  font-size: 20px;
+  font-family: 'Quicksand', sans-serif;
+  margin: auto 100px auto 100px;
+}
+
+.learnmore {
+  text-align: center;
+  background-color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+  font-family: 'Passion One', sans-serif;
+  font-size: 50px;
+}
+
+#aboutus {
+  font-size: 50px;
+}
+
+.learnmore p {
+  font-size: 20px;
+  text-align: center;
+}
+
+h3 {
+  padding-bottom: 0px;
+}
+
+#elonm {
+  font-size: 50px;
+}
+
+footer {
+  text-align: center;
+  padding-top: 20px;
+}
